@@ -57,7 +57,7 @@ set +e
 apt-get -qq update
 set -e
 
-apt-get -qq -y install python-software-properties
+apt-get -qq -y install python3-software-properties
 
 
 { \
